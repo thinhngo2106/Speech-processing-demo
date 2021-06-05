@@ -1,0 +1,9 @@
+.carousel{
+    width: 50% !important;
+    float: left;
+  }
+
+.image {
+    height: 60%;
+    width: 100%;
+}
